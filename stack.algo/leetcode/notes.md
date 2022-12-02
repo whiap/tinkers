@@ -1,6 +1,0 @@
-- [Go-CR-Comments](https://github.com/golang/go/wiki/CodeReviewComments)
-- [Homepage-En](https://leetcode.com/problemset/all/)
-- [Homepage-Cn](https://leetcode-cn.com/problemset/all/)
-  - [LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
-  - [Book](https://books.halfrost.com/leetcode/)
-- [Labladong](https://labuladong.gitbook.io/algo/)

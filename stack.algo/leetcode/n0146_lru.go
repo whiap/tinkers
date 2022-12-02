@@ -17,7 +17,7 @@ type pair struct {
 }
 
 // Constructor .
-func Constructor(capacity int) LRUCache {
+func Constructor(capacity int) *LRUCache {
 	return &LRUCache{
 		Cap:  capacity,
 		Keys: make(map[int]*list.Element),
